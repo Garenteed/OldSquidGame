@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc2c447855e1a9a4482803ca820993de, type: 3}
+  m_Name: PotionThrowerSO
+  m_EditorClassIdentifier: 
+  tower: {fileID: 5836556726382550512, guid: 4a2d257f50e98b247bf9b744e372965c, type: 3}
+  smallTower: {fileID: 2071824286133901603, guid: 178fba909ce236549bd2a4ab4edc6040, type: 3}
+  towerPreview: {fileID: 7333740034213121142, guid: c063b34b5d1fc51418dd4f0705ef0ab4, type: 3}

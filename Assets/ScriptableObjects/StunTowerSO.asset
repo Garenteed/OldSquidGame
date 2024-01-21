@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc2c447855e1a9a4482803ca820993de, type: 3}
+  m_Name: StunTowerSO
+  m_EditorClassIdentifier: 
+  tower: {fileID: 1188175336456104389, guid: 50e1995dca89bd34da127679faf8232d, type: 3}
+  smallTower: {fileID: 5438613377065373890, guid: e530e321082179a4bbd152d8b5dc99ac, type: 3}
+  towerPreview: {fileID: 6276218273134718839, guid: 59136fcf8c19e454a852c50a9d5e35b4, type: 3}

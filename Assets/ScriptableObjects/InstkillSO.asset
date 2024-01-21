@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc2c447855e1a9a4482803ca820993de, type: 3}
+  m_Name: InstkillSO
+  m_EditorClassIdentifier: 
+  tower: {fileID: 691195936596287929, guid: 68c692329e3948b459f1f2173a61d3b9, type: 3}
+  smallTower: {fileID: 1986255371803698818, guid: 25f8adb7c8e7e45469bf36b11323bf58, type: 3}
+  towerPreview: {fileID: 721803681260419788, guid: b2c63872503d04243b5a7551ef9f89cd, type: 3}

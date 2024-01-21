@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc2c447855e1a9a4482803ca820993de, type: 3}
+  m_Name: ShooterTowerSO 1
+  m_EditorClassIdentifier: 
+  tower: {fileID: 4581661611604877753, guid: 3a6231a85bc2188429fc65f435608ea4, type: 3}
+  smallTower: {fileID: 1605503648331812100, guid: 28e30ff78d837bf4cad2a2a4f11e558f, type: 3}
+  towerPreview: {fileID: 8343002407834341228, guid: 3d21b9deb1739f841baae0e21c8b4160, type: 3}
